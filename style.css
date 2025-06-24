@@ -1,0 +1,53 @@
+body{
+    background-image: url("grassisgreen.gif");
+    background-size: 50%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 125%;
+}
+header{
+    text-align: center;
+}
+section{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    color: white;
+    box-shadow: 0px 4px 6px rgb(0, 0, 0);
+    padding-top: 0.1px;
+    padding-bottom: 0.1px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-top: 30px;
+}
+section#navigation{
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0);
+}
+section#projects{
+    text-align: center;
+}
+nav.navigationbar{
+    text-align:center;
+}
+ul.navigationlinks{
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    color: white;
+    box-shadow: 0px 4px 6px rgb(0, 0, 0);
+    top: 0;
+    list-style: none;
+    display: flex;
+    gap: 3.5rem;
+    padding: 1.1rem 15rem;
+}
+a{
+    color: limegreen;
+}
+#welcome{
+    margin-top:30px;
+}
+div.linkedinlink{
+    text-align: center;
+}
+ul#skills-list{
+    margin-left: 12rem;
+}
