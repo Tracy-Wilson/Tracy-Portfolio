@@ -47,6 +47,7 @@ a{
 div.linkedinlink{
     text-align: center;
 }
-ul#skills-list{
-    margin-left: 12rem;
+p#skills-list{
+    list-style: none;
+    text-align: center;
 }
