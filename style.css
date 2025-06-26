@@ -17,6 +17,9 @@ section{
     padding-right: 7px;
     margin-top: 30px;
 }
+section#aboutme{
+    justify-items: center;
+}
 section#navigation{
     background-color: rgba(0, 0, 0, 0);
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0);
@@ -50,7 +53,4 @@ div.linkedinlink{
 p#skills-list{
     list-style: none;
     text-align: center;
-}
-img#headshot{
-    image-resolution: 100px;
 }
